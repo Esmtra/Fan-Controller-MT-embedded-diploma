@@ -15,7 +15,7 @@ This is a temperature control system that uses an LM35 sensor to measure the tem
 
 ## **Proteus**
 
-![simulation](https://github.com/Esmtra/Door-Locker-MT-embedded-diploma/blob/main/img/simulation.png "simulation")
+![simulation](https://github.com/Esmtra/Fan-Controller-MT-embedded-diploma/blob/main/img/simulation.png "simulation")
 
 ## **Driveers**
 - DC Motor Driver: This driver is used to control the speed of the fan in the temperature control system based on the temperature readings obtained from the LM35 temperature sensor.
